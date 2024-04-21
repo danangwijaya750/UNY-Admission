@@ -1,3 +1,9 @@
+# DAFTAR NOMOR TELEPON UNY
+Universitas Negeri Yogyakarta
+Telepon : +62-274-586168
+Humas   : (0274) 542185
+Email     :humas@uny.ac.id
+
 # VISI MISI dan TUJUAN UNY
 ## VISI  UNY
 Menjadi universitas kependidikan kelas dunia yang unggul, kreatif, dan inovatif berkelanjutan
