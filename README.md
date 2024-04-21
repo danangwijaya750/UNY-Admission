@@ -1,3 +1,20 @@
+# VISI MISI dan TUJUAN UNY
+## VISI  UNY
+Menjadi universitas kependidikan kelas dunia yang unggul, kreatif, dan inovatif berkelanjutan
+## MISI UNY :
+1. menyelenggarakan pendidikan jalur akademik, vokasi, dan profesi yang unggul, kreatif, dan inovatif berkelanjutan;
+2. menyelenggarakan penelitian dan pengembangan di bidang ilmu sains dan teknologi, sosial humaniora, olahraga-kesehatan, dan senibudaya yang unggul, kreatif, dan inovatif berkelanjutan;
+3. menyelenggarakan kegiatan pengabdian pada masyarakat yang unggul, kreatif, dan inovatif berkelanjutan bagi pemberdayaan dan kesejahteraan masyarakat;
+4. menyelenggarakan dan membangun jejaring yang berkelanjutan di tingkat. nasional dan internasional; dan
+5. menyelenggarakan tata kelola kelembagaan, layanan, dan penjaminan mutu yang transparan dan akuntabel.
+### TUJUAN UNY :
+1. menghasilkan lulusan yang unggul, kreatif, inovatif, takwa, mandiri, dan cendekia;
+2. menghasilkan penemuan, pengembangan, dan penyebarluasan ilmu pengetahuan, teknologi, seni, dan/ atau olahraga yang menyejahterakan individu dan masyarakat, yang mendukung pembangunan daerah dan nasional, serta berkontribusi terhadap pemecahan masalah global;
+3. terselenggaranya kegiatan pengabdian dan pemberdayaan masyarakat yang mendorong pengembangan potensi manusia, masyarakat, dan alam untuk mewujudkan kesejahteraan masyarakat;
+4. menghasilkan jejaring yang melibatkan masyarakat, akademik, industri, dan media di tingkat nasional maupun internasional; dan
+5. menghasilkan tata kelola universitas transparan dan akuntabel dalam pelaksanaan otonomi perguruan tinggi.
+
+
 # SEJARAH UNY :
 Setiap tahun, Universitas Negeri Yogyakarta (UNY) memperingati tanggal 21 Mei sebagai tanggal kelahirannya. Tanggal ini adalah tanggal berdirinya Institut Keguruan dan Ilmu Kependidikan (IKIP)  Yogyakarta yang merupakan pendahulu UNY. IKIP Yogyakarta diresmikan oleh Menteri Pendidikan Tinggi dan Ilmu Pengetahuan (PTIP) pada tanggal 21 Mei 1964.
 
