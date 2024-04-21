@@ -1,3 +1,8 @@
+# Universitas Negeri Yogyakarta (UNY) 
+Merupakan salah satu perguruan tinggi negeri di Indonesia. Kampus utama universitas ini terletak di Kabupaten Sleman, Daerah Istimewa Yogyakarta. UNY sebelumnya merupakan bagian dari salah satu fakultas di Universitas Gadjah Mada yang akhirnya membentuk sebuah institusi tersendiri bernama Institut Keguruan dan Ilmu Pendidikan Yogyakarta (IKIP Yogyakarta). UNY juga telah dianggap sebagai salah satu perguruan tinggi pendidikan terbaik di Indonesia, bersama Universitas Pendidikan Indonesia dan Universitas Negeri Malang.
+
+
+
 # DAFTAR NOMOR TELEPON UNY
 Universitas Negeri Yogyakarta
 Telepon : +62-274-586168
